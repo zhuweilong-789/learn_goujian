@@ -1,0 +1,24 @@
+{
+  "name": "learn_goujian",
+  "version": "1.0.0",
+  "description": "这是一个学习构建组件的项目",
+  "homepage": "https://github.com/zhuweilong-789/learn_goujian#readme",
+  "bugs": {
+    "url": "https://github.com/zhuweilong-789/learn_goujian/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuweilong-789/learn_goujian.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "eslint": "^10.0.3"
+  }
+}
